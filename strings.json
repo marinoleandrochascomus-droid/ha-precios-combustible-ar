@@ -1,0 +1,25 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Step 1: Province and Fuel",
+        "description": "Select your province and the fuel type you want to monitor.",
+        "data": {
+          "provincia": "Province",
+          "idproducto": "Fuel Type"
+        }
+      },
+      "localidad": {
+        "title": "Step 2: Locality",
+        "description": "Select the specific city or locality.",
+        "data": {
+          "localidad": "City / Locality"
+        }
+      }
+    },
+    "error": {
+      "no_hay_datos": "No data found for this location/fuel type.",
+      "cannot_connect": "Failed to connect to the government server."
+    }
+  }
+}

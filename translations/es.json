@@ -1,0 +1,25 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Provincia y combustible.",
+        "description": "Selecciona la provincia y el tipo de combustible.",
+        "data": {
+          "provincia": "Seleccione la provincia.",
+          "idproducto": "Seleccione tipo de combustible."
+        }
+      },
+      "localidad": {
+        "title": "Localidad.",
+        "description": "Seleccione la localidad.",
+        "data": {
+          "localidad": "Seleccione la localidad."
+        }
+      }
+    },
+    "error": {
+      "no_hay_datos": "No se encontraron datos para esta ubicación.",
+      "cannot_connect": "Error al conectar con el servidor gubernamental."
+    }
+  }
+}

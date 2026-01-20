@@ -1,0 +1,9 @@
+# Ignorar el archivo de datos pesado
+precios.csv
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Ignorar archivos del sistema
+.DS_Store

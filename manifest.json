@@ -1,0 +1,11 @@
+{
+  "domain": "precio_combustible_ar",
+  "name": "Precio Combustible Argentina",
+  "config_flow": true,
+  "codeowners": ["@marinoleandrochascomus-droid"],
+  "documentation": "https://github.com/marinoleandrochascomus-droid/ha-precios-combustible-ar",
+  "dependencies": [],
+  "requirements": ["aiohttp"],
+  "version": "1.0.0",
+  "iot_class": "cloud_polling"
+}
