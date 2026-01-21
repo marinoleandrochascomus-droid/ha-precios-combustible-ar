@@ -42,6 +42,16 @@ Esta integración permite monitorear en tiempo real los precios de los combustib
 
 ---
 
+## Capturas de Pantalla
+<p align="center">
+  <img src="screenshots/Captura de pantalla 2026-01-21 114730.png" width="400" title="Detalle">
+  <img src="screenshots/Captura de pantalla 2026-01-21 114743.png" width="400" title="Detalle">
+  <img src="screenshots/Captura de pantalla 2026-01-21 114805.png" width="400" title="Detalle">
+  <img src="screenshots/Captura de pantalla 2026-01-21 114837.png" width="400" title="Detalle">
+</p>
+
+---
+
 <a name="english"></a>
 ## 🇺🇸 English
 
